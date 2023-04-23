@@ -1,4 +1,5 @@
 # PROFESSIONAL SUMMARY 
+
 A reliable and experienced Data Scientist, Artificial 
 Intelligence Business Leader with over 2 years of experience executing data-driven 
 solutions to increase efficiency, accuracy, to complex business problems. 
